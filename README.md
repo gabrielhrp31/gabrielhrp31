@@ -50,5 +50,5 @@
 </div>
 <hr>
 <div> 
-    ![Snake animation](https://github.com/rafaballerini/gabrielhrp31/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/gabrielhrp31/gabrielhrp31/blob/output/github-contribution-grid-snake.svg)
 </div>
