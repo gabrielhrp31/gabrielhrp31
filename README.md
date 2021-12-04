@@ -17,7 +17,7 @@
   <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabriel-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Gabriel-pic" height="150" style="border-radius:50px;" src="https://github.com/gabrielhrp31/gabrielhrp31/blob/master/personagem.png?raw=tru&width=676&height=676">
+  <img align="right" alt="Gabriel-pic" height="150" src="https://github.com/gabrielhrp31/gabrielhrp31/blob/master/logo-verde.png?raw=tru&width=676&height=676">
 </div>
 <hr>
 <div style="display: inline_block;">
