@@ -1,10 +1,10 @@
 ### Hi there, my name is Gabriel
-<div align="center">
+<!--div align="center">
   <a href="https://gabrielhrp31.github.io/my_portfolio/">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielhrp31&show_icons=true&include_all_commits=true&count_private=true&show_icons=true&include_all_commits=true&count_private=true&title_color=48c558&text_color=f2f2f2&icon_color=16c426&bg_color=3C3C3B&border_radius=8&border_color=3C3C3B"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielhrp31&layout=compact&langs_count=7&show_icons=true&include_all_commits=true&count_private=true&title_color=48c558&text_color=f2f2f2&icon_color=16c426&bg_color=3C3C3B&border_radius=8&border_color=3C3C3B"/>
   </a>
-</div>
+</div-->
 <hr>
 <div style="display: inline_block;">
   <img align="center" alt="Gabriel-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
