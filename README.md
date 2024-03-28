@@ -39,7 +39,6 @@
     <b>About Me:</b>
     <ul>
       <li>🔭 I’m currently working as a Fullstack Developer on R2DA Tecnologia </li>
-      <li>🌱 I’m currently learning more about mobile Dev to achieve my goals </li>
       <li>👯 I’m looking to collaborate on any work with big value to my career</li>
     <!-- 🤔 I’m looking for help with ...-->
       <li>💬 Ask me about anything you need help, i love to share knowledge</li>
