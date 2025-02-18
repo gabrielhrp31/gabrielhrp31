@@ -38,7 +38,7 @@
 <div> 
     <b>About Me:</b>
     <ul>
-      <li>🔭 I’m currently working as a Developer Java Senior I on <a href="https://www.basis.com.br/" target="_blank">Basis</a></li>
+      <li>🔭 I’m currently working as a Developer Java Senior I on <a href="https://www.basis.com.br/" target="blank">Basis</a></li>
       <li>👯 I’m looking to collaborate on any work with big value to my career</li>
     <!-- 🤔 I’m looking for help with ...-->
       <li>💬 Ask me about anything you need help, i love to share knowledge</li>
