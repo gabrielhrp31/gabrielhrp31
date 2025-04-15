@@ -43,7 +43,6 @@
     <!-- 🤔 I’m looking for help with ...-->
       <li>💬 Ask me about anything you need help, i love to share knowledge</li>
       <li>😄 Pronouns: He/His</li>
-      <li>😄 Nickname: Some friends call me Winchester or only Win</li>
       <li>⚡ Fun fact: I am a lover of games and music if you want to share them with me, dont be afraid</li>
     </ul>
 </div>
